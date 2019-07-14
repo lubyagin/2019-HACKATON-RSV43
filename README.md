@@ -2,6 +2,7 @@
 Программный код для регионального хакатона
 
 Цветовая палита:
+~~~~
     bg:               #ffffff
     bg-dark:          #c9c9c9
     bg-light:         #d9dfdd
@@ -12,4 +13,5 @@
     footer-text:      #ffffff
     border:           #d9dfdd
     logo:             #0096a4
+~~~~
 
