@@ -1,3 +1,12 @@
 :root {
+    --color-bg:               #ffffff
+    --color-bg-dark:          #c9c9c9
+    --color-bg-light:         #d9dfdd
+    --color-header:           #002114
+    --color-header-highlight: #008655
+    --color-header-text:      #ffffff
+    --color-footer:           #003625
+    --color-footer-text:      #ffffff
+    --color-border:           #d9dfdd
+    --color-logo:             #0096a4
 }
-
