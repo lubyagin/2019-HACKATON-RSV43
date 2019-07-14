@@ -1,0 +1,5 @@
+@media (orientation: portrait) {
+  body {
+    font-size: calc(0.4em + 1vmin + 1vmax);
+  }
+}

@@ -1,0 +1,5 @@
+@media (orientation: landscape) {
+  body {
+    font-size: calc(0.4em + 0.6vmin + 0.6vmax);
+  }
+}
