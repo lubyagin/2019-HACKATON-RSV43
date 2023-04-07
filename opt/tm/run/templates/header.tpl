@@ -6,7 +6,7 @@
 <meta name="Description" lang="ru" Content="Поиск работы, вакансии и резюме"/>
 <meta name="Description" lang="en" Content="Search for work, vacancy, and resume"/>
 <meta name="keywords" Content=""/>
-<meta name="Author" content="lubyagin@yandex.ru Vr.43@yandex.ru"/>
+<meta name="Author" content="lubyagin@yandex.ru"/>
 <link rel="stylesheet" type="text/css" href="/css/common.css"/>
 </head>
 <body>
